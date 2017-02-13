@@ -1,0 +1,81 @@
+
+body{
+        
+        color: black;
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 0;
+   
+
+ 
+}
+        .degradado{ background-color:yellowgreen;
+            background: #b4e391; 
+background: -moz-linear-gradient(top, #b4e391 0%, #61c419 50%, #b4e391 100%); 
+background: -webkit-linear-gradient(top, #b4e391 0%,#61c419 50%,#b4e391 100%); 
+background: linear-gradient(to bottom, #b4e391 0%,#61c419 50%,#b4e391 100%); 
+
+          }
+h1{
+    color:dimgrey;
+    font-family: 'Dosis', sans-serif;
+    font-size: 40px;
+    text-align:center;
+    padding: 15px;
+    margin-bottom: 0px;
+}
+
+h2{
+    color:lightslategrey;
+     font-family: 'Nunito', sans-serif;
+}
+
+p{font-size: 17px}
+
+#borde{
+    background-color:darkgrey;
+    padding: 12px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+ #contenedor {
+         display: -webkit-box;     
+            display: -ms-flexbox;       
+            display: -webkit-flex;     
+            display: flex;             
+            -webkit-flex-wrap: wrap;   
+            flex-wrap:wrap;
+}
+  .posicion{
+   
+      border-color: ghostwhite;
+      width: 500px;
+      height: 400px;
+      margin: auto;
+      border-radius: 6px;
+         
+     }
+#bordeVideo{
+    background-color: aliceblue;
+  
+    width: 600px;
+    margin: auto;
+}
+.cuerpo{
+    background-color:lightgoldenrodyellow;
+    padding: 15px;
+    font-size: 16px;
+}
+    footer{
+        color: dimgray;
+         font-size: 17px;
+        text-align: center;
+        padding: 15px;
+        margin-top: 0px
+    
+        
+    }
+
+     
+     
+     
